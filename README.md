@@ -1,5 +1,7 @@
 # Implementing NgRx with Angular for Users API
 
+- [youtube link](https://www.youtube.com/watch?v=zM6pUAaJZQM)
+
 ## **Step 1: Install NgRx Packages**
 Run the following command in your Angular project:
 ```sh
